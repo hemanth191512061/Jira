@@ -1,0 +1,19 @@
+Jira
+*Jira is an project management tool used for issue or bug tracking.
+*JIRA is developed by Atlassian Inc., an Australian Company.
+*JIRA is a platform independent tool; it can be used with any OS.
+*JIRA is multi-lingual tool − English, French, German, Japanese, Spanish, etc.
+*Jira has Epic & Stories
+*Each Epic has multiple stories.
+*Create project and create backlogs 
+*In backlogs create Epic and Stories
+*Story --As a customer, I want to "Action", So that "result" 
+*Product Backlog contains user stories
+*Story points are written for user stories
+*Release version are given for each user stories
+*Sprint planning--daily scrum--Sprint review--Sprint retrospective meeting
+*userstories to sprint backlog based on the release Versions
+*Based on scrum board(TO DO --In Progress -- Done) Daily scrum meeting will happen
+*We can generate Reports by using the reports we want like burntdown , burntup reports
+
+
